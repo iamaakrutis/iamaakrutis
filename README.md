@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamaakrutis
+- 👋 Hi, I’m Aakruti.
 - 👀 I’m interested in coding, reading, and exploring new technologies.
 - 🌱 I’m currently learningend-to-end framework development.
 - 💞️ I’m looking to collaborate on open-source projects related to test automation and software development.
